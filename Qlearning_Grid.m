@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 itr = 100000;
+=======
+itr = 100;
+>>>>>>> sth
 
 epsilon = 0.1;
 QQlearning = zeros(48,4);
