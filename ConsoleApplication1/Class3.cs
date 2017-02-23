@@ -8,7 +8,6 @@ namespace ConsoleApplication1
     class Class3
     {
         int 1=0;
-        int k=12;
-
+		int k=12;
     }
 }
