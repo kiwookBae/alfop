@@ -1,0 +1,4 @@
+C:\Users\Bae\Documents\Visual Studio 2010\Projects\test2\alfop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Bae\Documents\Visual Studio 2010\Projects\test2\alfop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Bae\Documents\Visual Studio 2010\Projects\test2\alfop\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Bae\Documents\Visual Studio 2010\Projects\test2\alfop\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
