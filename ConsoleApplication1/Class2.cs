@@ -8,6 +8,7 @@ namespace ConsoleApplication1
     class Class2
     {
         int i = 1;
+        int j = 0;
 
     }
 }
